@@ -1,7 +1,7 @@
 # untitled
 
 A new Flutter project.
-
+![Demo Image](assets/images/lab2_micard.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
